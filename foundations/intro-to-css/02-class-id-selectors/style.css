@@ -1,0 +1,25 @@
+
+.odd{
+
+    background-color: rgb(227, 125, 125);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#idB{
+
+    color: #0810fc;
+    font-size: 36px;
+}
+
+.three{
+
+   font-size: 24px;
+
+}
+
+#idG{
+
+    background-color: hsl(122, 93%, 58%);
+    font-size: 24px;
+    font-weight: bold;
+}
