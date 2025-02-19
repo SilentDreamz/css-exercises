@@ -1,0 +1,21 @@
+
+.click-me-one,
+.click-me-two {
+
+
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+
+.click-me-one{
+
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255)
+
+}
+
+.click-me-two{
+
+    background-color: #ffff00;
+}
